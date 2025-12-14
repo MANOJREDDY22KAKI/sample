@@ -1,0 +1,16 @@
+Gender,Age,Height,Weight,family_history,FAVC,FCVC,NCP,CAEC,SMOKE,CH2O,SCC,FAF,TUE,CALC,MTRANS,Obesity
+Female,25.955014,1.626449,104.879602,yes,yes,3.0,3.0,Sometimes,no,2.094901,no,0.07089,0.599441,Sometimes,Public_Transportation,Obesity_Type_III
+Female,25.996716,1.62658,105.037203,yes,yes,3.0,3.0,Sometimes,no,2.347322,no,0.008013,0.503896,Sometimes,Public_Transportation,Obesity_Type_III
+Female,25.992348,1.606474,104.954291,yes,yes,3.0,3.0,Sometimes,no,2.331123,no,0.063383,0.561661,Sometimes,Public_Transportation,Obesity_Type_III
+Female,25.974446,1.628855,108.090006,yes,yes,3.0,3.0,Sometimes,no,1.757105,no,0.085119,0.465444,Sometimes,Public_Transportation,Obesity_Type_III
+Female,25.777565,1.628205,107.378702,yes,yes,3.0,3.0,Sometimes,no,2.506631,no,0.025787,0.484165,Sometimes,Public_Transportation,Obesity_Type_III
+Female,25.722004,1.62847,107.218949,yes,yes,3.0,3.0,Sometimes,no,2.48707,no,0.067329,0.455823,Sometimes,Public_Transportation,Obesity_Type_III
+Female,25.765628,1.627839,108.10736,yes,yes,3.0,3.0,Sometimes,no,2.320068,no,0.045246,0.413106,Sometimes,Public_Transportation,Obesity_Type_III
+Female,21.016849,1.724268,133.033523,yes,yes,3.0,3.0,Sometimes,no,1.650612,no,1.537639,0.912457,Sometimes,Public_Transportation,Obesity_Type_III
+Female,21.682367,1.732383,133.043941,yes,yes,3.0,3.0,Sometimes,no,1.610768,no,1.510398,0.931455,Sometimes,Public_Transportation,Obesity_Type_III
+Female,21.285965,1.72692,131.335786,yes,yes,3.0,3.0,Sometimes,no,1.796267,no,1.728332,0.897924,Sometimes,Public_Transportation,Obesity_Type_III
+Female,20.976842,1.71073,131.408528,yes,yes,3.0,3.0,Sometimes,no,1.728139,no,1.676269,0.906247,Sometimes,Public_Transportation,Obesity_Type_III
+Female,21.982942,1.748584,133.742943,yes,yes,3.0,3.0,Sometimes,no,2.00513,no,1.34139,0.59927,Sometimes,Public_Transportation,Obesity_Type_III
+Female,22.524036,1.752206,133.689352,yes,yes,3.0,3.0,Sometimes,no,2.054193,no,1.414209,0.646288,Sometimes,Public_Transportation,Obesity_Type_III
+Female,24.361936,1.73945,133.346641,yes,yes,3.0,3.0,Sometimes,no,2.852339,no,1.139107,0.586035,Sometimes,Public_Transportation,Obesity_Type_III
+Female,23.664709,1.738836,133.472641,yes,yes,3.0,3.0,Sometimes,no,2.863513,no,1.026452,0.714137,Sometimes,Public_Transportation,Obesity_Type_III
