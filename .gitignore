@@ -1,0 +1,17 @@
+app.py
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.vscode/
+.idea/
+logs/
+database.py
+schedule.db
+test_backend.py
+Todo.py
+user_data.json
+utils.py
+style.css
+requirements.txt
